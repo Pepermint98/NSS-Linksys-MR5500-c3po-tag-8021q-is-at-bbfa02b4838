@@ -106,6 +106,7 @@ libc - 1.2.6-r5
 libcomerr0 - 1.47.4-r1
 libe2p2 - 1.47.4-r1
 libelf1 - 0.195-r2
+libevdev - 1.13.6-r1
 libext2fs2 - 1.47.4-r1
 libgcc1 - 14.4.0-r5
 libiwinfo-data - 2026.05.26~66bdd1a0-r1
@@ -129,6 +130,8 @@ libuci20250120 - 2025.12.02~66127cd7-r1
 libuclient20201210 - 2026.06.07~daad21fa-r1
 libucode20230711 - 2026.07.09~b885dd0f-r1
 libudebug - 2026.07.08~75843a1b
+libudev-zero - 1.0.5-r1
+libusb-1.0-0 - 1.0.29-r2
 libustream-mbedtls20201210 - 2026.03.01~99f1c0db-r1
 libuuid1 - 2.42.2-r1
 logd - 2025.10.30~6f78fa49-r1
@@ -193,6 +196,8 @@ uhttpd - 2026.08.03~60f64bec-r1
 uhttpd-mod-ubus - 2026.08.03~60f64bec-r1
 urandom-seed - 3
 urngd - 2025.10.03~f17e33d9-r1
+usbids - 0.410-r1
+usbutils - 019-r1
 usign - 2025.10.03~c4c72b1b-r1
 wifi-scripts - 1.0-r2
 wireless-regdb - 2026.05.30-r1
